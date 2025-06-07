@@ -1,0 +1,62 @@
+{
+  "name": "freezepay",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "start": "react-native start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-navigation/native": "7.1.10",
+    "@react-navigation/native-stack": "7.3.14",
+    "axios": "^1.9.0",
+    "howler": "^2.2.3",
+    "install": "^0.13.0",
+    "lottie-react-native": "7.2.2",
+    "npm": "^11.4.1",
+    "react": "19.0.0",
+    "react-native": "0.79.2",
+    "react-native-biometrics": "3.0.1",
+    "react-native-config": "1.5.5",
+    "react-native-gesture-handler": "2.25.0",
+    "react-native-permissions": "^3.10.1",
+    "react-native-phone-number-input": "^2.0.0",
+    "react-native-qrcode-svg": "^6.3.15",
+    "react-native-reanimated": "^3.18.0",
+    "react-native-safe-area-context": "5.4.1",
+    "react-native-screens": "4.11.1",
+    "react-native-svg": "^15.12.0",
+    "react-native-svg-transformer": "^1.5.1",
+    "react-native-vector-icons": "10.2.0",
+    "react-native-vision-camera": "^4.6.4"
+  },
+  "devDependencies": {
+    "@babel/core": "7.27.4",
+    "@babel/preset-env": "7.27.2",
+    "@babel/runtime": "7.27.6",
+    "@react-native-community/cli": "18.0.0",
+    "@react-native-community/cli-platform-android": "18.0.0",
+    "@react-native-community/cli-platform-ios": "18.0.0",
+    "@react-native/babel-preset": "0.79.2",
+    "@react-native/eslint-config": "0.79.2",
+    "@react-native/metro-config": "0.79.2",
+    "@react-native/typescript-config": "0.79.2",
+    "@types/jest": "29.5.14",
+    "@types/react": "19.0.0",
+    "@types/react-test-renderer": "19.0.0",
+    "eslint": "8.57.1",
+    "jest": "29.7.0",
+    "metro-react-native-babel-preset": "0.77.0",
+    "prettier": "2.8.8",
+    "react-native-dotenv": "^3.4.11",
+    "react-test-renderer": "19.0.0",
+    "typescript": "5.0.4"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
