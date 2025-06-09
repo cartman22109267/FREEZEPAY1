@@ -1,4 +1,4 @@
-# FREEZEPAY1
+# FREEZEPAY1 by NONGOWE EPANE RODRIGUE ANDREW sdia4
 Freezepay – Application mobile P2P de paiement sans contact (QR code &amp; Bluetooth) avec authentification multifactorielle (OTP, biométrie). Construit avec React Native, Express et PostgreSQL.
 
 # FreezePay
